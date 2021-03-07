@@ -1,10 +1,11 @@
 # COVID_Brasil :space_invader: :microscope:
 
-Bem vindo/Bem vinda/Bem vinde! Este repositório está atualmente em **construção** e conterá dados e códigos utilizados para análises da situaço brasileira frente à pandemia da COVID-19. Até o momento atual (05/03/2021), se encontra aqui:
+Bem vindo/Bem vinda/Bem vinde! Este repositório está atualmente em **construção** e conterá dados e códigos utilizados para análises da situação brasileira frente à pandemia da COVID-19. Até o momento atual (07/03/2021), se encontra aqui:
 
 1. Código fonte utilizado para estimar de forma mais realística o numero total de óbitos por COVID-19 no Brasil, utilizando dados do portal [Bigdata-covid19](https://bigdata-covid19.icict.fiocruz.br/) da Fiocruz e os dados do [OurWorldInData](https://ourworldindata.org/coronavirus);
 2. Os dados baixados do portal [Bigdata-covid19](https://bigdata-covid19.icict.fiocruz.br/), nomeados [fiocruz_sivep_gripe.csv](https://github.com/PedroHPCintra/COVID_Brasil/blob/main/fiocruz_sivep_gripe.csv), contendo os registros de óbitos por síndrome respiratória aguda grave no Brasil, nos anos de 2018, 2019 e 2020;
-3. Os dados baixados do [OurWorldInData](https://ourworldindata.org/coronavirus), nomeados de [owid-covid-data.csv](https://github.com/PedroHPCintra/COVID_Brasil/blob/main/owid-covid-data.csv), contendo os registros de casos, óbitos, vacinaçes, etc, de todos os países do mundo.
+3. Dados retirados dos boletins epidemiológicos de 2016 e 2017 sobre SRAG no Brasil, nomeados de [SRAG_2016_2017.csv](https://github.com/PedroHPCintra/COVID_Brasil/blob/main/SRAG_2016_2017.csv);
+4. Os dados baixados do [OurWorldInData](https://ourworldindata.org/coronavirus), nomeados de [owid-covid-data.csv](https://github.com/PedroHPCintra/COVID_Brasil/blob/main/owid-covid-data.csv), contendo os registros de casos, óbitos, vacinaçes, etc, de todos os países do mundo.
 
 ## Utilização do código
 
