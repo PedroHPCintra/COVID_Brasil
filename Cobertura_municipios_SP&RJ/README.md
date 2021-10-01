@@ -8,7 +8,10 @@ Tento atualizar estes dados toda terça-feira, adquirindo assim os dados referen
 
 Caso você só esteja aqui para baixar e visualizar os mapas de cobertura vacinal nestes estados, os nomes dos arquivos são:
 - Mapa RJ: ```vaccine_rj_2_dose.html```
-- Mapa SP: ```vaccine_sp_2_dose.html```
+- Mapa SP: ```vaccine_sp_2_dose.zip```
+
+O mapa de São Paulo é grande demais para fazer upload aqui no github, sendo assim, é necessária realizar sua compressão em um ```.zip```, basta baixar o arquivo e
+descomprimir para poder abrir o mapa em seu computador.
 
 ## Fontes
 
