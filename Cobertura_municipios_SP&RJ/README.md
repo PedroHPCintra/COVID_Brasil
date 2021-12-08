@@ -2,7 +2,7 @@
 de São Paulo e Rio de Janeiro. As fontes para ambos os estados encontram-se listadas abaixo, sinta-se livre para baixar os dados mais recentes em seu computador
 e utilizar o script em ```python``` para gerar as imagens em ```.html```.
 
-Tento atualizar estes dados toda terça-feira, adquirindo assim os dados referentes até a segunda feira. A versão mais recente dos dados foi baixada no dai 15/11/2021.
+Tento atualizar estes dados toda terça-feira, adquirindo assim os dados referentes até a segunda feira. A versão mais recente dos dados foi baixada no dai 06/12/2021.
 
 **Atenção**
 
