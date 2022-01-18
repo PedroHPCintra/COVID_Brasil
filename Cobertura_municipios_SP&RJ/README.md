@@ -1,15 +1,21 @@
+# Leia-me :open_book:
+
 :smile: Olá, aqui se encontra disponibilizado o código fonte, bem como os dados, utilizado para gerar os mapas de cobertura vacinal de 2ª dose por município nos estados do Brasil. As fontes para ambos os estados encontram-se listadas abaixo, sinta-se livre para baixar os dados mais recentes em seu computador
 e utilizar o script em ```python``` para gerar as imagens em ```.html```.
 
-Tento atualizar estes dados toda terça-feira, adquirindo assim os dados referentes até a segunda feira. A versão mais recente dos dados foi baixada no dai 06/12/2021.
+Tento atualizar estes dados toda terça-feira, adquirindo assim os dados referentes até a segunda feira. A versão mais recente dos dados foi baixada no dai 18/01/2022. Os dados para produção dos mapas de vacinação vem do [LocalizaSUS](https://infoms.saude.gov.br/extensions/DEMAS_C19_Vacina_v2/DEMAS_C19_Vacina_v2.html).
 
 **Atenção**
 
-Caso você só esteja aqui para baixar e visualizar os mapas de cobertura vacinal nestes estados, os nomes dos arquivos são:
+:world_map: Caso você só esteja aqui para baixar e visualizar os mapas de cobertura vacinal nestes estados, os arquivos estão na pasta ```Maps```. Os
+nomes dos arquivos são:
 - Mapas dos estados: ```vaccine_SIGLA_2_dose.html```
 - Mapa de SP, MG, SC e TO: ```vaccine_SILGA_dose.zip```
 
 Os mapas de São Paulo, Minas Gerais, Santa Catarina e Tocantis são grandes demais para fazer upload aqui no github, sendo assim, é necessária realizar sua compressão em um ```.zip```, basta baixar o arquivo e descomprimir para poder abrir o mapa em seu computador.
+
+:chart_with_upwards_trend: Já caso você esteja aqui para ver a distribuição de coberturas vacinais nos municípios,
+ela se encontra na pasta ```Distributions```. De forma análoga ao mapa de vacinação, você os estados estão identificados pela sigla no nome do arquivo.
 
 ## Código
 
@@ -32,6 +38,4 @@ Neste código, são gerados os mapas de vacinação dos municípios de cada esta
 
 ## Fontes
 
-Dados vacinação SP: [https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/](https://www.saopaulo.sp.gov.br/planosp/simi/dados-abertos/)
-
-Dados vacinação dos demais estados: [https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html](https://qsprod.saude.gov.br/extensions/DEMAS_C19Vacina/DEMAS_C19Vacina.html)
+Dados vacinação para os estados e municípios: [https://infoms.saude.gov.br/extensions/DEMAS_C19_Vacina_v2/DEMAS_C19_Vacina_v2.html](https://infoms.saude.gov.br/extensions/DEMAS_C19_Vacina_v2/DEMAS_C19_Vacina_v2.html)
