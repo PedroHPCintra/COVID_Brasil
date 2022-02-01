@@ -3,7 +3,7 @@
 :smile: Olá, aqui se encontra disponibilizado o código fonte, bem como os dados, utilizado para gerar os mapas de cobertura vacinal de 2ª dose por município nos estados do Brasil. As fontes para ambos os estados encontram-se listadas abaixo, sinta-se livre para baixar os dados mais recentes em seu computador
 e utilizar o script em ```python``` para gerar as imagens em ```.html```.
 
-Tento atualizar estes dados toda terça-feira, adquirindo assim os dados referentes até a segunda feira. A versão mais recente dos dados foi baixada no dia 18/01/2022. Os dados para produção dos mapas de vacinação vem do [LocalizaSUS](https://infoms.saude.gov.br/extensions/DEMAS_C19_Vacina_v2/DEMAS_C19_Vacina_v2.html).
+Tento atualizar estes dados toda terça-feira, adquirindo assim os dados referentes até a segunda feira. A versão mais recente dos dados foi baixada no dia 31/01/2022. Os dados para produção dos mapas de vacinação vem do [LocalizaSUS](https://infoms.saude.gov.br/extensions/DEMAS_C19_Vacina_v2/DEMAS_C19_Vacina_v2.html).
 
 **Atenção**
 
