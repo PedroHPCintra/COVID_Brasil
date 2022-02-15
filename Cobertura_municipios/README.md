@@ -19,7 +19,7 @@ ela se encontra na pasta ```Distributions```. De forma análoga ao mapa de vacin
 
 ## Código
 
-Caso queira reproduzir os mapas em seu computador usando o código que uso, o arquivo é um Jupyter Notebook chamado ```Homogeneidade_BR_vacinacao.ipynb```. Nele, eu uso o google colab como repositório para os arquivos shapefiles de Minas Gerais, Santa Catarina e Tocantins, pois eles são grandes demais para colocar no github. Sendo assim você precisará baixá-los em seu computador através do [IBGE Malhas Municípais](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads). Após ter baixado, substitua a linha de código
+Caso queira reproduzir os mapas em seu computador usando o código que uso, o arquivo é um Jupyter Notebook chamado ```BR_vacinacao.ipynb```. Nele, eu uso o google colab como repositório para os arquivos shapefiles de Minas Gerais, Santa Catarina e Tocantins, pois eles são grandes demais para colocar no github. Sendo assim você precisará baixá-los em seu computador através do [IBGE Malhas Municípais](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads). Após ter baixado, substitua a linha de código
 
 ```python
 if state == 'MG' or state == 'SC' or state == 'TO':
